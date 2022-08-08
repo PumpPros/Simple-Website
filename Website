@@ -1,1 +1,38 @@
-sdafadfdsfafafdsf
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Puchtuning</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="Container">
+    <div class="navbar">
+        <div class="logo">
+            <img src="900px-Puch_logo.svg.png" width="125px">
+        </div>
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Store</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <h1>My New Tuning Puch<br>With 75ccm</h1>
+                <p>It's going about 90Km/h</p>
+            </div>
+            <div class="col-2 img">
+                <img src="Snapchat-727624814.jpg">
+
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
